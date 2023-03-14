@@ -2,7 +2,6 @@ package prog2.exercise4.flight.booking.system;
 
 import static org.junit.Assert.assertEquals;
 import java.time.LocalDate;
-
 import org.junit.Test;
 
 
